@@ -1,6 +1,19 @@
 body {
     background-color: rgb(209, 179, 236);
     font-family: Raleway;
+    color:black
+}
+
+#container{
+    display: flex;
+}
+
+.cartao {
+    margin: 1rem 1rem;
+    background-color: rgb(161, 91, 226);
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
 }
 
 footer{
