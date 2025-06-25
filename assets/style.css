@@ -16,6 +16,12 @@ body {
     flex-basis: calc(33% - 6rem);
 }
 
+.cartao__conteudo{
+    text-align: center;
+    background-color:rgb(184, 255, 231);
+    height:100%;
+}
+
 footer{
     background-color: aquamarine;
     color: black;
