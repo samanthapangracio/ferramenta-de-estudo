@@ -25,6 +25,8 @@ body {
     text-align: center;
     /*background-color:rgb(184, 255, 231);*/
     height:100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .cartao__conteudo h3 {
