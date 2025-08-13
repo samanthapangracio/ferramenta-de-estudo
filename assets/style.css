@@ -67,6 +67,11 @@ body {
     height: 100%;
     width: 100%;
 }
+.cartao__conteudo p {
+    margin-top: 1rem;
+    padding: 2rem;
+    margin-top: 4rem;
+}    
 
 footer{
     background-color: aquamarine;
